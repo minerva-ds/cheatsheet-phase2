@@ -284,11 +284,3 @@ code, pre {
 
 
 </div>
-
-## Additional Sections
-
-### Section 1: [Title]
-Add your content here...
-
-### Section 2: [Title]
-Add your content here...
